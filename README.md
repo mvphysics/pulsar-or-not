@@ -1,5 +1,5 @@
 # pulsar-or-not
-* Pulsars are neutron stars with extremely high rotational speed. They are magnetic dipoles creating a very powerful magnetic field and emittng electromagnetic radiation in a wide frequency range. They are used as points of
+* Pulsars are neutron stars with extremely high rotational speed. They are magnetic dipoles that create a very powerful magnetic field and emit electromagnetic radiation in a wide frequency range. They are used as points of
 reference for the research of nearby stellar objects. The disruptions in their periodic behaviour could indicate that an event has taken place in the universe. They can also be used for the research of matter in states of 
 high density as they are one of the densest objects in the observable universe.
 * The purpose of this project is to make several models using different classification algorithms to solve this binary classification problem (is a star pulsar or not?). I have tested LDA, QDA, Logistic Regression, Desicion
